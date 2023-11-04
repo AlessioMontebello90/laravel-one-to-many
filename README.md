@@ -39,7 +39,7 @@ php artisan serve
 php artisan key:generate
 ```
 
-## Connessione al DB
+## Connessione al db
 
 1. Avvio MAMP
 
